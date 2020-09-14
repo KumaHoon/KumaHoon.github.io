@@ -95,11 +95,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김상훈/Sanghoon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "한양대학교 ERICA 대학생\n Hanyang University Student at ERICA Campus\n Student ID : 2017014420\n나노광전자학과/소프트웨어학과 다중전공\n Double major in Photonics and Nanoelectronics & Software Engineering"
   location         : "Ansan, South Korea"
-  email            :
+  email            : "saingh@hanyang.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
